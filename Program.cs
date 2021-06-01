@@ -11,5 +11,11 @@ namespace DictionaryDemo
             Console.WriteLine("Hello World");
             Console.WriteLine("Programming is fun.");
         }
+
+        void printLines()
+        {
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Programming is fun.");
+        }
     }
 }
