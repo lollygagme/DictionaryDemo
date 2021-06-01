@@ -8,6 +8,8 @@ namespace DictionaryDemo
         static void Main(string[] args)
         {
             IDictionary<int, string> dict = new Dictionary<int, string>();
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Programming is fun.");
         }
     }
 }
