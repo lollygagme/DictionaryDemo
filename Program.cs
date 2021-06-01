@@ -12,7 +12,7 @@ namespace DictionaryDemo
             Console.WriteLine("Programming is fun.");
         }
 
-        void printLines()
+        public void printLines()
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Programming is fun.");
